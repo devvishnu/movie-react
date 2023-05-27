@@ -9,7 +9,7 @@ import { Home } from './pages/home/Home'
  import Detalis  from './pages/detalis/Detalis'
  import  SearchResult  from './pages/seaechResult/SearchResult'
 import  Explore  from './pages/explore/Explore'
-import { PageNotFound } from './pages/4O4/PageNotFound'
+import  PageNotFound  from './pages/4O4/PageNotFound'
 
 
 function App() {
