@@ -7,8 +7,8 @@ import { Home } from './pages/home/Home'
  import Footer from './components/footer/Footer'
  import Header from './components/header/Header'
  import Detalis  from './pages/detalis/Detalis'
- import { SearchResult } from './pages/seaechResult/SearchResult'
-import { Explore } from './pages/explore/Explore'
+ import  SearchResult  from './pages/seaechResult/SearchResult'
+import  Explore  from './pages/explore/Explore'
 import { PageNotFound } from './pages/4O4/PageNotFound'
 
 
